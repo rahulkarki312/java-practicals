@@ -1,0 +1,5 @@
+Employee ID: 2
+Name: Rahul Karki
+Address: Budhanilkantha, Kathmandu
+DOB: 2001-12-03
+Phone: 9823230221

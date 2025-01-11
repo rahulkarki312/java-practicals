@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\HP\\Desktop\\java practical\\lib\\javax.servlet-api-3.1.0-javadoc.jar",
+        "c:\\Users\\HP\\Desktop\\java practical\\lib\\mysql-connector-j-9.1.0.jar"
+    ]
+}
